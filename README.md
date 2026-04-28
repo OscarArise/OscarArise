@@ -1,24 +1,46 @@
 # Oscar Nova
 
-🎓 Estudiante de Ingeniería en Sistemas Computacionales  
-💻 Interesado en desarrollo Web, CyberSeguridad y Redes de Computadoras
+Computer Systems Engineering student at UAA · Building toward AI Engineering
 
-## 🧠 Lenguajes
-- JavaScript
-- HTML / CSS
-- TypeScript
-- Kotlin
-- C#
-- Python
+Currently focused on Python and data fundamentals.
+Exploring automation, data analysis, and AI-powered tools.
 
-## 📂 Proyectos destacados
-- VideoJuego Web
-- Web e-commerce
-- Demo de videojuego en Unity
-- Proyectos Universitarios
+---
 
-## 🎯 Objetivo
-Primer empleo como desarrollador junior y fortalecimiento de perfil académico
+## Stack
 
-## 📫 Contacto
-- GitHub: https://github.com/OscarArise
+**Active**
+- Python · SQL · Git
+
+**Learning**
+- PostgreSQL · Linux · REST APIs
+
+**Explored in university projects**
+- JavaScript · HTML/CSS · C# · Unity
+
+---
+
+## Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [VideoJuego Web](https://github.com/OscarArise/Mini_Proyect_FinalVersion) | Browser-based game built for university | JS · HTML/CSS |
+| [Web e-commerce](https://github.com/OscarArise/FinalProjectNode) | E-commerce frontend project | HTML · CSS · JS |
+| [Unity Demo](https://github.com/OscarArise/UnityDemoGame) | 2D game demo, university project | C# · Unity |
+
+> More projects being added as I complete my Python learning path.
+
+---
+
+## Current focus
+
+Working through *Python Crash Course* (ch. 10/20).
+Building small projects with real data before moving to APIs and automation.
+
+Goal for 2025: first project connecting Python + a public API or database.
+
+---
+
+## Contact
+
+arisechonova@gmail.com
