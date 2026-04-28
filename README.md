@@ -37,7 +37,7 @@ Exploring automation, data analysis, and AI-powered tools.
 Working through *Python Crash Course* (ch. 10/20).
 Building small projects with real data before moving to APIs and automation.
 
-Goal for 2025: first project connecting Python + a public API or database.
+Goal for 2026: first project connecting Python + a public API or database.
 
 ---
 
