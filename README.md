@@ -24,7 +24,7 @@ Exploring automation, data analysis, and AI-powered tools.
 
 | Project | Description | Tech |
 |---|---|---|
-| [Galaga Python](https://github.com/OscarArise/alien-invasion) | Browser-based game built for university | JS · HTML/CSS |
+| [Galaga Python](https://github.com/OscarArise/alien-invasion) | Video Game Galaga Python Version | Python |
 | [Web e-commerce](https://github.com/OscarArise/FinalProjectNode) | E-commerce frontend project | HTML · CSS · JS |
 | [Unity Demo](https://github.com/OscarArise/UnityDemoGame) | 2D game demo, university project | C# · Unity |
 
